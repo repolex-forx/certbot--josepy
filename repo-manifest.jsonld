@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/certbot/josepy/commit/7069e07e20408bf1bf911427f5d386a2d6471d5d",
       "git:hexsha": "7069e07e20408bf1bf911427f5d386a2d6471d5d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T16:48:35.286439+00:00"
     },
     {
       "@id": "https://repolex.ai/r/certbot/josepy/commit/f8b3c058fa1ba91b19f828c9c32cb0ef752ca4cf",
